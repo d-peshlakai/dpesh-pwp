@@ -11,7 +11,7 @@
 			<ol>
 			<li>Name: Johnny Depp </li>
 			<li>Age: 26</li>
-			<li>Profession: He is a the lead web developer for the company Lavu as a full stack web developer. He has been in the technology communitity for 11 years. He also has been running the team at Lavu for 5 years. He is looking  to hire a junior web developer.</li>
+			<li>Profession: He is a the lead web developer for the company Lavu as a full stack web developer. He has been in the technology communtity for 11 years. He also has been running the team at Lavu for 5 years. He is looking  to hire a junior web developer.</li>
 			<li>Technology: Mr. Depp carries a LG G6 android phone at all times for meetings and uses a HP windows 7 desktop daily for work .</li>
 			<li>Attitudes and Behaviors: He enjoys his job and loves the field web developement. He enjoys teaching and leading his team to make the Lavu web application a success. He wants to maintain a strong creative team. He uses to social media, and attends the tech meetups to meet with future web developers for the Albuquerque company.</li>
 			<li>Frustrations and Needs: He would like to set up interviews in the next week. He's actively attending tech events to inform his job opening. Time is his enemy because the company needs an employer before the week ends .</li>
