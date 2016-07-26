@@ -18,6 +18,6 @@
 			<li>Johnny is only concerned with getting a web developer in time. Can he manage his time well? While managing a large team along with weekly meetings, he must make the time to hire a web developer. </li>
 			</ol>
 			<h1>Use Case</h1>
-			<p>Johnny Depp is going to manage his time carefully while managing the team at Lavu. He's looking for a junior web developer for his team at Lavu in Albuquerque, New Mexico with advanced skills and with a professional website. His goal is to hire a junior web developer who knows the languages Javascript, PHP, HTML/CSS and Angular 2. When he heard that the Deep Dive Coding Bootcamp was graduating this week he attended the demo/employer day to potentially hire a developer. It's 2:48pm, two days after employer day he notices a resume by Diane Peshlakai who graduated from Deep Dive Coding and goes further to schedule an interview. </p>
+			<p>Johnny Depp is going to manage his time carefully while managing the team at Lavu. He's looking for a junior web developer for his team at Lavu in Albuquerque, New Mexico with advanced skills and with a professional website. His goal is to hire a junior web developer who knows the languages Javascript, PHP, HTML/CSS and Angular 2. When he heard that the Deep Dive Coding Bootcamp was graduating this week he attended the demo/employer day to potentially hire a developer. It's 2:48pm, two days after employer day he notices a resume by Diane Peshlakai who graduated from Deep Dive Coding with superb skills and goes further to schedule an interview. </p>
 	</body>
 </html>
