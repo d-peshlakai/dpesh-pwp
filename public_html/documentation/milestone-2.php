@@ -21,6 +21,12 @@
 		provide. This page will also include social media links for professional business connections.</p>
 	<p><strong>Portfolio</strong>: This page will mostly contain a gallery of images. The images will be my projects
 	that I have done. It will also include a brief description about my roles in each project.</p>
-	<p><strong>Contact</strong></p>: This page will have a contact form. Next to the contact form will include email
-	address, and social media links, as well as GitHub/Linked In profiles. 
+	<p><strong>Contact</strong>: This page will have a contact form. Next to the contact form will include email
+	address, and social media links, as well as GitHub/Linked In profile names.</p>
+	<h3>Interaction Flow</h3>
+		<img src="images/erd-dianepwp.png" alt="diagram"/>
+		<p><strong>Wireframes:</strong> This site will feature 2 layouts:
+		<li>Home Page layout</li>
+		<li>Content layout</li>
+	</ol>
 </html>
