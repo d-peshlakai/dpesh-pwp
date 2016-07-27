@@ -25,8 +25,16 @@
 	address, and social media links, as well as GitHub/Linked In profile names.</p>
 	<h3>Interaction Flow</h3>
 		<img src="images/erd-dianepwp.png" alt="diagram"/>
-		<p><strong>Wireframes:</strong> This site will feature 2 layouts:
+		<h2><strong>Wireframes:</strong></h2>
+		<p>This site will feature 2 layouts:
 		<li>Home Page layout</li>
 		<li>Content layout</li>
-	</ol>
+		<p><strong>Mobile:</strong> Home Page Layout </p>
+		<img src="images/mobilehome.png" alt="mobile-home"/>
+		<p><strong>Mobile:</strong> Content Page Layout </p>
+		<img src="images/mobile-content.png" alt="mobile-content"/>
+		<p><strong>Desktop:</strong> Home Page Layout</p>
+		<img src="images/desktop-homepage.png" alt="desktop-homepage"/>
+		<p><strong>Desktop:</strong> Content Page Layout</p>
+		<img src="images/desktop-content.png" alt="desktop-content"/>
 </html>
